@@ -1,0 +1,94 @@
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\appsettings.json
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.exe
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.deps.json
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.runtimeconfig.json
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.pdb
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.AssemblyReference.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.AssemblyInfoInputs.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.AssemblyInfo.cs
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.CoreCompileInputs.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.CopyComplete
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\refint\Server.Web.Api.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.pdb
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.genruntimeconfig.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\ref\Server.Web.Api.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.RazorAssemblyInfo.cache
+C:\projetos\teste 8Quali\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.RazorAssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\appsettings.json
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.exe
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.deps.json
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.runtimeconfig.json
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Web.Api.pdb
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\Teste-8qualy\server\Server.Web.Api\bin\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.AssemblyReference.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.AssemblyInfoInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.AssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.CoreCompileInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.RazorAssemblyInfo.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.RazorAssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.csproj.CopyComplete
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\refint\Server.Web.Api.dll
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.pdb
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\Server.Web.Api.genruntimeconfig.cache
+C:\projetos\Teste-8qualy\server\Server.Web.Api\obj\Debug\net6.0\ref\Server.Web.Api.dll

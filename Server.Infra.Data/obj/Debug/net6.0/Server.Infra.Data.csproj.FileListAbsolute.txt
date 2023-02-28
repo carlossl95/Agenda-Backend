@@ -1,0 +1,30 @@
+C:\projetos\teste 8Quali\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.deps.json
+C:\projetos\teste 8Quali\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\teste 8Quali\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\teste 8Quali\server\Server.Infra.Data\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\teste 8Quali\server\Server.Infra.Data\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.AssemblyReference.cache
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.AssemblyInfoInputs.cache
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.AssemblyInfo.cs
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.CoreCompileInputs.cache
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.CopyComplete
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\refint\Server.Infra.Data.dll
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\teste 8Quali\server\Server.Infra.Data\obj\Debug\net6.0\ref\Server.Infra.Data.dll
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.deps.json
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\bin\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.AssemblyReference.cache
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.AssemblyInfoInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.AssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.CoreCompileInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.csproj.CopyComplete
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.dll
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\refint\Server.Infra.Data.dll
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\Server.Infra.Data.pdb
+C:\projetos\Teste-8qualy\server\Server.Infra.Data\obj\Debug\net6.0\ref\Server.Infra.Data.dll

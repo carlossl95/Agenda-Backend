@@ -1,0 +1,24 @@
+C:\projetos\teste 8Quali\server\Server.Domain\bin\Debug\net6.0\Server.Domain.deps.json
+C:\projetos\teste 8Quali\server\Server.Domain\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\teste 8Quali\server\Server.Domain\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.csproj.AssemblyReference.cache
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.AssemblyInfoInputs.cache
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.AssemblyInfo.cs
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.dll
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\refint\Server.Domain.dll
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\Server.Domain.pdb
+C:\projetos\teste 8Quali\server\Server.Domain\obj\Debug\net6.0\ref\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Domain\bin\Debug\net6.0\Server.Domain.deps.json
+C:\projetos\Teste-8qualy\server\Server.Domain\bin\Debug\net6.0\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Domain\bin\Debug\net6.0\Server.Domain.pdb
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.csproj.AssemblyReference.cache
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.AssemblyInfoInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.AssemblyInfo.cs
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\refint\Server.Domain.dll
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\Server.Domain.pdb
+C:\projetos\Teste-8qualy\server\Server.Domain\obj\Debug\net6.0\ref\Server.Domain.dll
